@@ -11,8 +11,15 @@ copyright = "© Charlie O'Neill"
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
 [params]
   math = true
+  mode="auto"
+  useCDN=false
 
 [[params.social]]
 name = "GitHub"
