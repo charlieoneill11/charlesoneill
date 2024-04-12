@@ -2,33 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charles O&#39;Neill</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Charles O&#39;Neill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Charlie O&#39;Neill</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Can quantised autoencoders find and interpret circuits in language models?</title>
-      <link>http://localhost:1313/posts/vq_vae/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vq_vae/</guid>
-      <description>Introduction Mechanistic interpretability has recently made significant breakthroughs in automatically identifying circuits in real-world language models like GPT-2. However, no one has yet been able to automatically interpret these circuits once found; instead, each circuit requires significant manual inspection before we can begin to guess what is going on.&#xA;This post explores the use of compression in the form of autoencoders in order to make the residual streams of transformers acting on certain tasks much more conducive to automated analysis.</description>
-    </item>
-    <item>
-      <title>Some quick thoughts on learning compressed representations and GPT-5 speculation</title>
-      <link>http://localhost:1313/posts/compression/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/compression/</guid>
-      <description>Language models are impressive, but I think they are cheating. We give them an abstract vocabulary as a way to compress the external world into a manageable set of 50,257 tokens. Since (almost) any human can understand sequences of these tokens, our compression scheme must have been effective enough to distil a key chunk of our understanding of the world into an abstract vocabulary.&#xA;Two lemmas Real-world intelligence obviously doesn&amp;rsquo;t require the use of language as a compression tool.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>I am currently an Honours student at the Australian National University, supervised by Dr. Thang Bui. My Honours project is looking at how to interpret transformer residual streams as computational primitives expressible as executable code.&#xA;In general, I like playing around with the internals of pre-trained transformers and figuring out what&amp;rsquo;s going on. I also think this is one of the best ways to form new ideas about how to improve them.</description>
-    </item>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
