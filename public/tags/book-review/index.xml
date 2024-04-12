@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Review on Charles O&#39;Neill</title>
+    <link>http://localhost:1313/tags/book-review/</link>
+    <description>Recent content in Book Review on Charles O&#39;Neill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>© Charlie O&#39;Neill</copyright>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Idiot</title>
+      <link>http://localhost:1313/posts/idiot/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/idiot/</guid>
+      <description>In exploring Fyodor Dostoevsky&amp;rsquo;s &amp;ldquo;The Idiot,&amp;rdquo; one is compelled to delve deep into the myriad themes and intricate character dynamics that constitute this masterpiece. Central to this analysis is the protagonist, Prince Myshkin, whose portrayal as a &amp;ldquo;purely beautiful soul&amp;rdquo; sets the stage for a profound examination of the interplay between such innocence and the often corrupt and complex world he navigates.&#xA;Dostoevsky&amp;rsquo;s intent to create a character embodying goodness and moral purity stands as a testament to his exploration of spiritual and moral questions.</description>
+    </item>
+  </channel>
+</rss>

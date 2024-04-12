@@ -6,6 +6,7 @@
     <description>Recent content on Charles O&#39;Neill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
+    <copyright>© Charlie O&#39;Neill</copyright>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +15,20 @@
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/vq_vae/</guid>
       <description>Introduction Mechanistic interpretability has recently made significant breakthroughs in automatically identifying circuits in real-world language models like GPT-2. However, no one has yet been able to automatically interpret these circuits once found; instead, each circuit requires significant manual inspection before we can begin to guess what is going on.&#xA;This post explores the use of compression in the form of autoencoders in order to make the residual streams of transformers acting on certain tasks much more conducive to automated analysis.</description>
+    </item>
+    <item>
+      <title>The Idiot</title>
+      <link>https://example.org/posts/idiot/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/idiot/</guid>
+      <description>In exploring Fyodor Dostoevsky&amp;rsquo;s &amp;ldquo;The Idiot,&amp;rdquo; one is compelled to delve deep into the myriad themes and intricate character dynamics that constitute this masterpiece. Central to this analysis is the protagonist, Prince Myshkin, whose portrayal as a &amp;ldquo;purely beautiful soul&amp;rdquo; sets the stage for a profound examination of the interplay between such innocence and the often corrupt and complex world he navigates.&#xA;Dostoevsky&amp;rsquo;s intent to create a character embodying goodness and moral purity stands as a testament to his exploration of spiritual and moral questions.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
     </item>
   </channel>
 </rss>

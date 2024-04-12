@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-au'
 title = "Charles O'Neill"
 theme = 'archie'
+copyright = "© Charlie O'Neill"
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
@@ -12,3 +13,28 @@ theme = 'archie'
           inline = [['\(', '\)']]
 [params]
   math = true
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/athul/archie"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/athulcajay/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
