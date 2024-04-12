@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	{{ partial "header.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "head.html" . }}
+			
+			<main class="list">
+				<div class="site-description">
+					{{- if isset .Site.Params "subtitle" -}}
+					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
+					{{- end -}}
+				</div>
+				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+				{{ range $paginator.Pages }}
+				<section class="list-item">
+					<h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
+					<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
+					<br>{{ template "partials/pagedescription.html" . }}
+					<a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
+				</section>
+				{{ end }}
+				{{ template "partials/paginator.html" . }}
+				<!-- Papers Section -->
+				<!-- Papers Section -->
+				<section class="papers-section">
+					<h2>Papers</h2>
+					<div class="paper">
+						<p><strong>Charles O'Neill</strong>, Yuan-Sen Ting, Ioana Ciuca, Roberta Raileanu, Jack Miller, and Thang Bui.<br>
+						<em>Steering Language Generation: Harnessing Contrastive Expert Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation.</em><br>
+						Pre-print on arXiv. <a href="https://arxiv.org/abs/2308.07645">Available here.</a></p>
+					</div>
+					<div class="paper">
+						<p>Tuan Dung Nguyen, Yuan-Sen Ting, Ioana Ciuca, <strong>Charles O'Neill</strong>, and others.<br>
+						<em>AstroLLaMA: Towards specialised foundation models in astronomy.</em><br>
+						Published in IJCNLP-AACL 2023. <a href="https://arxiv.org/abs/2309.06126">Available here.</a></p>
+					</div>
+					<div class="paper">
+						<p>Jack Miller, <strong>Charles O'Neill</strong>, and Thang Bui.<br>
+						<em>Grokking Beyond Neural Networks: An Empirical Exploration with Model Complexity.</em><br>
+						Published in TMLR. <a href="https://arxiv.org/abs/2310.17247">Available here.</a></p>
+					</div>
+					<div class="paper">
+						<p>Ernest Perkowski, Rui Pan, Tuan Dung Nguyen, Yuan-Sen Ting, Sandor Kruk, Tong Zhang, <strong>Charles O’Neill</strong>, and others.<br>
+						<em>AstroLLaMA-Chat: Scaling AstroLLaMA with Conversational and Diverse Datasets.</em><br>
+						Published in Research Notes of the American Astronomical Society. <a href="https://iopscience.iop.org/article/10.3847/2515-5172/ad1abe/meta">Available here.</a></p>
+					</div>
+					<div class="paper">
+						<p>Jack Miller, Patrick Gleeson, <strong>Charles O’Neill</strong>, Thang Bui, and Noam Levi.<br>
+						<em>Measuring Sharpness in Grokking.</em><br>
+						Published in ICLR Workshop BGPT 2024. <a href="https://arxiv.org/abs/2402.08946">Available here.</a></p>
+					</div>
+				</section>
+
+			</main>
+			{{ partial "footer.html" . }}
+		</div>
+		
+	</body>
+</html>
