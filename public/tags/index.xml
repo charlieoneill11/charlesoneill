@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Charles O&#39;Neill</title>
-    <link>https://example.org/tags/</link>
+    <link>https://charlieoneill11.github.io/charlesoneill/tags/</link>
     <description>Recent content in Tags on Charles O&#39;Neill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Charlie O&#39;Neill</copyright>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charlieoneill11.github.io/charlesoneill/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

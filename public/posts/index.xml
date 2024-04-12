@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Charles O&#39;Neill</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://charlieoneill11.github.io/charlesoneill/posts/</link>
     <description>Recent content in Posts on Charles O&#39;Neill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Charlie O&#39;Neill</copyright>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charlieoneill11.github.io/charlesoneill/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can quantised autoencoders find and interpret circuits in language models?</title>
-      <link>http://localhost:1313/posts/vq_vae/</link>
+      <link>https://charlieoneill11.github.io/charlesoneill/posts/vq_vae/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vq_vae/</guid>
+      <guid>https://charlieoneill11.github.io/charlesoneill/posts/vq_vae/</guid>
       <description>Introduction Mechanistic interpretability has recently made significant breakthroughs in automatically identifying circuits in real-world language models like GPT-2. However, no one has yet been able to automatically interpret these circuits once found; instead, each circuit requires significant manual inspection before we can begin to guess what is going on.&#xA;This post explores the use of compression in the form of autoencoders in order to make the residual streams of transformers acting on certain tasks much more conducive to automated analysis.</description>
     </item>
     <item>
       <title>Some quick thoughts on learning compressed representations and GPT-5 speculation</title>
-      <link>http://localhost:1313/posts/compression/</link>
+      <link>https://charlieoneill11.github.io/charlesoneill/posts/compression/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/compression/</guid>
+      <guid>https://charlieoneill11.github.io/charlesoneill/posts/compression/</guid>
       <description>Language models are impressive, but I think they are cheating. We give them an abstract vocabulary as a way to compress the external world into a manageable set of 50,257 tokens. Since (almost) any human can understand sequences of these tokens, our compression scheme must have been effective enough to distil a key chunk of our understanding of the world into an abstract vocabulary.&#xA;Two lemmas Real-world intelligence obviously doesn&amp;rsquo;t require the use of language as a compression tool.</description>
     </item>
   </channel>
