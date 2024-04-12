@@ -1,25 +1,11 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+date = "2024-01-21"
+aliases = ["about-me","contact"]
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I am currently an Honours student at the Australian National University, supervised by [Dr. Thang Bui](https://thangbui.github.io/). My Honours project is looking at how to interpret transformer residual streams as computational primitives expressible as executable code.
 
-Hugo makes use of a variety of open source projects including:
+In general, I like playing around with the internals of pre-trained transformers and figuring out what's going on. I also think this is one of the best ways to form new ideas about how to improve them.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I also run a startup called [Rake News](https://rake.news/) along with Max Kirkby, where we are building a peer-to-peer personalised news platform that uses large language models for debiasing, aggregation and synthesis of news stories tailored to each individual reader.
