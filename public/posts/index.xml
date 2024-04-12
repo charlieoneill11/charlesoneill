@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Charles O&#39;Neill</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Charles O&#39;Neill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Charlie O&#39;Neill</copyright>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can quantised autoencoders find and interpret circuits in language models?</title>
-      <link>https://example.org/posts/vq_vae/</link>
+      <link>http://localhost:1313/posts/vq_vae/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/vq_vae/</guid>
+      <guid>http://localhost:1313/posts/vq_vae/</guid>
       <description>Introduction Mechanistic interpretability has recently made significant breakthroughs in automatically identifying circuits in real-world language models like GPT-2. However, no one has yet been able to automatically interpret these circuits once found; instead, each circuit requires significant manual inspection before we can begin to guess what is going on.&#xA;This post explores the use of compression in the form of autoencoders in order to make the residual streams of transformers acting on certain tasks much more conducive to automated analysis.</description>
     </item>
     <item>
       <title>The Idiot</title>
-      <link>https://example.org/posts/idiot/</link>
+      <link>http://localhost:1313/posts/idiot/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/idiot/</guid>
+      <guid>http://localhost:1313/posts/idiot/</guid>
       <description>In exploring Fyodor Dostoevsky&amp;rsquo;s &amp;ldquo;The Idiot,&amp;rdquo; one is compelled to delve deep into the myriad themes and intricate character dynamics that constitute this masterpiece. Central to this analysis is the protagonist, Prince Myshkin, whose portrayal as a &amp;ldquo;purely beautiful soul&amp;rdquo; sets the stage for a profound examination of the interplay between such innocence and the often corrupt and complex world he navigates.&#xA;Dostoevsky&amp;rsquo;s intent to create a character embodying goodness and moral purity stands as a testament to his exploration of spiritual and moral questions.</description>
     </item>
   </channel>
