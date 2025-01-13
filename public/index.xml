@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charles O&#39;Neill</title>
-    <link>https://charlieoneill11.github.io/charlesoneill/</link>
+    <link>http://localhost:1313/charlesoneill/</link>
     <description>Recent content on Charles O&#39;Neill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Charlie O&#39;Neill</copyright>
     <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://charlieoneill11.github.io/charlesoneill/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/charlesoneill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information Bounds in Quantum Gravity</title>
-      <link>https://charlieoneill11.github.io/charlesoneill/posts/quantum_information/</link>
+      <link>http://localhost:1313/charlesoneill/posts/quantum_information/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://charlieoneill11.github.io/charlesoneill/posts/quantum_information/</guid>
+      <guid>http://localhost:1313/charlesoneill/posts/quantum_information/</guid>
       <description>The deepest fact we know about quantum gravity is that the maximum information content of a region of space scales with its surface area, not its volume.&#xA;The Classical Expectation Classical physics implies that information storage should scale with volume. Take a region of space and fill it with bits - quantum degrees of freedom that can each store roughly one unit of information. Pack these bits in a three-dimensional lattice, and the total storage capacity grows as the cube of the region&amp;rsquo;s radius.</description>
     </item>
     <item>
       <title>Books I read (am reading) in 2025</title>
-      <link>https://charlieoneill11.github.io/charlesoneill/posts/2025_books/</link>
+      <link>http://localhost:1313/charlesoneill/posts/2025_books/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://charlieoneill11.github.io/charlesoneill/posts/2025_books/</guid>
+      <guid>http://localhost:1313/charlesoneill/posts/2025_books/</guid>
       <description>Free Food for Millionaires by Min Jin Lee. I got this book when it was mentioned in Zhedong Wang&amp;rsquo;s 2024 letter, where he said &amp;ldquo;Min Jin Lee is one of the only authors I’m a completionist for.&amp;rdquo; I understand why. At the beginning, I felt like the book was beneath me in some aspects (which is generally a terrible attitude to approach a book with). The writing was plain, there wasn&amp;rsquo;t much nuance, and I felt like everything was being told directly to me.</description>
     </item>
     <item>
       <title>The nihilism of NeurIPS</title>
-      <link>https://charlieoneill11.github.io/charlesoneill/posts/neurips/</link>
+      <link>http://localhost:1313/charlesoneill/posts/neurips/</link>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://charlieoneill11.github.io/charlesoneill/posts/neurips/</guid>
+      <guid>http://localhost:1313/charlesoneill/posts/neurips/</guid>
       <description>&amp;ldquo;What is the use of having developed a science well enough to make predictions if, in the end, all we&amp;rsquo;re willing to do is stand around and wait for them to come true?&amp;rdquo; F. SHERWOOD HOWLAND in his speech accepting the Nobel Prize in Chemistry in 1995.&#xA;&amp;ldquo;Once upon a time on Tralfamadore there were creatures who weren’t anything like machines. They weren’t dependable. They weren’t efficient. They weren’t predictable.</description>
     </item>
     <item>
       <title>Can quantised autoencoders find and interpret circuits in language models?</title>
-      <link>https://charlieoneill11.github.io/charlesoneill/posts/vq_vae/</link>
+      <link>http://localhost:1313/charlesoneill/posts/vq_vae/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://charlieoneill11.github.io/charlesoneill/posts/vq_vae/</guid>
+      <guid>http://localhost:1313/charlesoneill/posts/vq_vae/</guid>
       <description>Introduction Mechanistic interpretability has recently made significant breakthroughs in automatically identifying circuits in real-world language models like GPT-2. However, no one has yet been able to automatically interpret these circuits once found; instead, each circuit requires significant manual inspection before we can begin to guess what is going on.&#xA;This post explores the use of compression in the form of autoencoders in order to make the residual streams of transformers acting on certain tasks much more conducive to automated analysis.</description>
     </item>
     <item>
       <title>Some quick thoughts on learning compressed representations and GPT-5 speculation</title>
-      <link>https://charlieoneill11.github.io/charlesoneill/posts/compression/</link>
+      <link>http://localhost:1313/charlesoneill/posts/compression/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://charlieoneill11.github.io/charlesoneill/posts/compression/</guid>
+      <guid>http://localhost:1313/charlesoneill/posts/compression/</guid>
       <description>Language models are impressive, but I think they are cheating. We give them an abstract vocabulary as a way to compress the external world into a manageable set of 50,257 tokens. Since (almost) any human can understand sequences of these tokens, our compression scheme must have been effective enough to distil a key chunk of our understanding of the world into an abstract vocabulary.&#xA;Two lemmas Real-world intelligence obviously doesn&amp;rsquo;t require the use of language as a compression tool.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://charlieoneill11.github.io/charlesoneill/about/</link>
+      <link>http://localhost:1313/charlesoneill/about/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://charlieoneill11.github.io/charlesoneill/about/</guid>
+      <guid>http://localhost:1313/charlesoneill/about/</guid>
       <description>I am currently an Honours student at the Australian National University, supervised by Dr. Thang Bui. My Honours project is looking at how to interpret transformer residual streams as computational primitives expressible as executable code.&#xA;In general, I like playing around with the internals of pre-trained transformers and figuring out what&amp;rsquo;s going on. I also think this is one of the best ways to form new ideas about how to improve them.</description>
     </item>
   </channel>
