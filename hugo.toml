@@ -9,8 +9,8 @@ copyright = "© Charlie O'Neill"
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\\[','\\]'], ['$$','$$']]
-          inline = [['\\(','\\)']]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 pygmentsstyle = "monokai"
 pygmentscodefences = true
