@@ -1,5 +1,5 @@
 ---
-title: Information Bounds in Spacetime: From Black Holes to Holography
+title: Information Bounds in Quantum Gravity
 date: 2025-01-13
 description: How information theory links quantum mechanics and general relativity
 ---
