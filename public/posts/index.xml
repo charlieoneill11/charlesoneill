@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Charlie O&#39;Neill</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://charlieoneill11.github.io/charlesoneill/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Bounds in Quantum Gravity</title>
+      <link>https://charlieoneill11.github.io/charlesoneill/posts/quantum_information/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://charlieoneill11.github.io/charlesoneill/posts/quantum_information/</guid>
+      <description>The deepest fact we know about quantum gravity is that the maximum information content of a region of space scales with its surface area, not its volume.&#xA;The Classical Expectation Classical physics implies that information storage should scale with volume. Take a region of space and fill it with bits - quantum degrees of freedom that can each store roughly one unit of information. Pack these bits in a three-dimensional lattice, and the total storage capacity grows as the cube of the region&amp;rsquo;s radius.</description>
+    </item>
+    <item>
+      <title>Books I read (am reading) in 2025</title>
+      <link>https://charlieoneill11.github.io/charlesoneill/posts/2025_books/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://charlieoneill11.github.io/charlesoneill/posts/2025_books/</guid>
+      <description>Free Food for Millionaires by Min Jin Lee. I got this book when it was mentioned in Zhedong Wang&amp;rsquo;s 2024 letter, where he said &amp;ldquo;Min Jin Lee is one of the only authors I’m a completionist for.&amp;rdquo; I understand why. At the beginning, I felt like the book was beneath me in some aspects (which is generally a terrible attitude to approach a book with). The writing was plain, there wasn&amp;rsquo;t much nuance, and I felt like everything was being told directly to me.</description>
+    </item>
+    <item>
+      <title>The nihilism of NeurIPS</title>
+      <link>https://charlieoneill11.github.io/charlesoneill/posts/neurips/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://charlieoneill11.github.io/charlesoneill/posts/neurips/</guid>
+      <description>&amp;ldquo;What is the use of having developed a science well enough to make predictions if, in the end, all we&amp;rsquo;re willing to do is stand around and wait for them to come true?&amp;rdquo; F. SHERWOOD HOWLAND in his speech accepting the Nobel Prize in Chemistry in 1995.&#xA;&amp;ldquo;Once upon a time on Tralfamadore there were creatures who weren’t anything like machines. They weren’t dependable. They weren’t efficient. They weren’t predictable.</description>
+    </item>
     <item>
       <title>Can quantised autoencoders find and interpret circuits in language models?</title>
       <link>https://charlieoneill11.github.io/charlesoneill/posts/vq_vae/</link>
