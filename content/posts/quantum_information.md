@@ -2,7 +2,8 @@
 title: Information Bounds in Quantum Gravity
 date: 2025-01-13
 description: How information theory links quantum mechanics and general relativity
-math: true
+params:
+  math: true
 ---
 
 The deepest fact we know about quantum gravity is that the maximum information content of a region of space scales with its surface area, not its volume.
