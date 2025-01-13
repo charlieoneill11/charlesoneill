@@ -18,9 +18,9 @@ This matches our everyday experience. A stack of hard drives stores information 
 
 Black holes shatter this intuition. Bekenstein discovered, and Hawking later refined, a precise formula for black hole entropy:
 
-\\[S = A/4G\bar{h}\\]
+\\\[S = A/4G\bar{h}\\\]
 
-The entropy \(S\) - representing the information content in bits - is proportional to the surface area \(A\) of the black hole's event horizon. The constants \(G\) (Newton's gravitational constant) and \(\bar{h}\) (Planck's constant) link quantum mechanics and gravity.
+The entropy \\\(S\\\) - representing the information content in bits - is proportional to the surface area \(A\) of the black hole's event horizon. The constants \(G\) (Newton's gravitational constant) and \(\bar{h}\) (Planck's constant) link quantum mechanics and gravity.
 
 This area-scaling would be merely curious if it applied only to black holes. But Bekenstein proved something far more profound: black holes represent the maximum possible information density for any region of that size. No object can exceed the entropy of a black hole of the same surface area.
 
